@@ -55,3 +55,7 @@ This is ***another*** ~paragraph.~
 name = "World"
 print("Hello, {}".format(name))
 '"
+
+#inline code
+
+Python에서 'random'패키지에서 'randint' 함수를 사용하세요.
