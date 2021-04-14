@@ -51,10 +51,10 @@ This is ***another*** ~paragraph.~
 
     print("Python")
     
-'''python  
+```python  
 name = "World"
 print("Hello, {}".format(name))
-'''
+```
 
 #inline code
 
