@@ -1,4 +1,4 @@
 # markdown
-in open source software class
-This is a paragraph.  
-This is another paragraph.
+in *open source* software class  
+This is **a** paragraph.  
+This is _another_ paragraph.  
