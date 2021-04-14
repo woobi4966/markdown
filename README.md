@@ -31,3 +31,6 @@ This is ***another*** ~paragraph.~
 구글로 가고 싶으면 [공부](http://lily.sunmoon.ac.kr)를 열심히 하세요.  
 구글로 가고 싶으면 [공부](http://lily.sunmoon.ac.kr "선문대학교 홈페이지")를 열심히 하세요.  
 구글로 가고 싶으면 [공부](./LICENSE)를 열심히 하세요.
+구글로 가고 싶으면 [공부][구글]를 열심히 하세요.
+
+[구글]:https://www.en.dict.naver.com/
