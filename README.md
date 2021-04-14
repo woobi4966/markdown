@@ -42,3 +42,6 @@ This is ***another*** ~paragraph.~
 ![Alt Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고")
 <img src=https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, alt= "구글 공식 로고"></img>
 [구글 로고]: 
+
+
+> 너 자신을 알라. - 소크라테스
