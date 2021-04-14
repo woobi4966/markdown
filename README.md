@@ -60,3 +60,5 @@ print("Hello, {}".format(name))
 #inline code
 
 Python에서 'random'패키지에서 'randint' 함수를 사용하세요.
+
+[//] : 이건 커맨드란다 깃허브야.
