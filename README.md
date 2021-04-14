@@ -36,7 +36,7 @@ This is ***another*** ~paragraph.~
 구글로 가고 싶으면 [공부][네이버_영어사전]를 열심히 하세요.  
 강조하는 법을 알고 싶다면 [강조](#How-to-emphasis)로 가세요.
 
-[네이버_영어사전]:https://en.dict.naver.com/
+
 
 
 ![Alt Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고")
@@ -61,3 +61,6 @@ print("Hello, {}".format(name))
 Python에서 'random'패키지에서 'randint' 함수를 사용하세요.
 
 [//] : # 이건 커맨드란다 깃허브야.
+
+
+[네이버_영어사전]:https://en.dict.naver.com/
