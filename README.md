@@ -39,7 +39,7 @@ This is ***another*** ~paragraph.~
 
 
 
-![Alt Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고")
+![구글 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글공식로고")
 <img src=https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, alt= "구글 공식 로고"></img>
 
 
