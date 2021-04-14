@@ -37,3 +37,7 @@ This is ***another*** ~paragraph.~
 강조하는 법을 알고 싶다면 [강조](#How-to-emphasis)로 가세요.
 
 [네이버_영어사전]:https://en.dict.naver.com/
+
+
+[Alt Text][구글 로고]
+![구글 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고")
