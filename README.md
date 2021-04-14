@@ -41,4 +41,4 @@ This is ***another*** ~paragraph.~
 
 ![Alt Text][구글 로고]
 
-[구글 로고]:(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고")
+[구글 로고]: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글 공식 로고"
