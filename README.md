@@ -49,3 +49,6 @@ This is ***another*** ~paragraph.~
 # 코드
     def_sum(a, b):
       return a + b
+'''python
+name = "World"
+print("Hello, {}".format(name))'''
