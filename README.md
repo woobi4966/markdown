@@ -32,6 +32,6 @@ This is ***another*** ~paragraph.~
 구글로 가고 싶으면 [공부](http://lily.sunmoon.ac.kr "선문대학교 홈페이지")를 열심히 하세요.  
 구글로 가고 싶으면 [공부](./LICENSE)를 열심히 하세요.  
 구글로 가고 싶으면 [공부][네이버_영어사전]를 열심히 하세요.  
-강조하는 법을 알고 싶다면 [강조](##How to emphasis)로 가세요.
+강조하는 법을 알고 싶다면 [강조](##Howtoemphasis)로 가세요.
 
 [네이버_영어사전]:https://en.dict.naver.com/
