@@ -50,11 +50,12 @@ This is ***another*** ~paragraph.~
 
 # 코드
 
-
-"'python  
+    print("Python")
+    
+'''python  
 name = "World"
 print("Hello, {}".format(name))
-'"
+'''
 
 #inline code
 
