@@ -21,6 +21,18 @@ and, it is too header ......
 
 ###### this is an H6 header.
 
+### plus list
++ list1
++ list2
++ list3
+### minus list
+- list1
+- list2
+- list3
+### star list
+* list1
+* list2
+* list3
 
 
 
@@ -69,10 +81,6 @@ This is ***another*** ~paragraph.~
 구글로 가고 싶으면 [공부](./LICENSE)를 열심히 하세요.  
 구글로 가고 싶으면 [공부][네이버_영어사전]를 열심히 하세요.  
 강조하는 법을 알고 싶다면 [강조](#How-to-emphasis)로 가세요.
-
-
-
-
 ![구글 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png, "구글공식로고")
 <p><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png", alt="구글 공식 로고"></p>
 
