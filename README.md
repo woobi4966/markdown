@@ -52,6 +52,7 @@ and, it is too header ......
 | default | Left-aligned | centered | right_aligned |
 |-----|:-----|:----:|----:|
 | *default*| is|left-aligned|$1500
+|'zebra'|stripeeeeee| | |
 
 
 
