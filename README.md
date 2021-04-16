@@ -54,8 +54,8 @@ and, it is too header ......
 | *default*| is|left-aligned|$1500
 |'zebra'|stripeeeeee| | |
 
-[Google] (https://www.google.com)
-[Google] (https://www.google.com "Google's Homepage")
+[Google](https://www.google.com)
+[Google](https://www.google.com "Google's Homepage")
 
 
 
