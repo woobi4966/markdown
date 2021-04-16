@@ -65,6 +65,11 @@ Use `print(msg)` instead of `print msg`
 name = 'World'
 print('Hello, {}'.format(name))
 ```
+*****
+line this word upper is a horizontal rules.
+and,
+[//]: this is a 주석. only you can see this. but dont make a secret.
+[comment]: # 이것도 주석이래,.
 
 -------------------------------------------------------------------------------------------
 # markdown Lecture
