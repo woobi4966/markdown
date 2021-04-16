@@ -56,8 +56,15 @@ and, it is too header ......
 
 [Google](https://www.google.com)
 [Google](https://www.google.com "Google's Homepage")
+[License File](./LICENSE)
 
+URIs and URLs in angle brakets will automatically get turned into links.
+Use `print(msg)` instead of `print msg`
 
+```python  
+name = 'World'
+print('Hello, {}'.format(name))
+```
 
 -------------------------------------------------------------------------------------------
 # markdown Lecture
