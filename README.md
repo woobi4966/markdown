@@ -5,8 +5,10 @@ this is another paragraph.
 this is a paragraph.  
 this is another paragraph.
 
-this *italics* or _italics_
-this is a **bold** or __bold__
+this *italics* or _italics_  
+this is a **bold** or __bold__  
+this is a ***bold italics***
+~~strke through~~
 
 
 
