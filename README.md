@@ -49,7 +49,9 @@ and, it is too header ......
 2. item2
 55. item3
 
-
+| default | Left-aligned | centered | right_aligned |
+|-----|:-----|:----:|----:|
+| *default*| is|left-aligned|$1500
 
 
 
